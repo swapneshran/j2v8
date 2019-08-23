@@ -27,6 +27,7 @@ release.properties
 *.iws
 out/
 .idea_modules/
+resources/node/node_modules/
 
 ##########################
 ## Eclipse

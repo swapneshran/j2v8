@@ -1,0 +1,18 @@
+{
+  "name": "express-j2v8",
+  "version": "0.0.1",
+  "description": "a simple example of j2v8 binding",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "swapnesh mohanty",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
